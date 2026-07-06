@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_name",
+      "value": "How to Build POI Cluster Map"
+    },
+    {
+      "name": "label_cluster_info_title",
+      "value": "Cluster Info"
+    },
+    {
+      "name": "label_spots_count",
+      "value": "spots in this cluster"
+    },
+    {
+      "name": "label_tap_to_dismiss",
+      "value": "Tap map to dismiss"
+    },
+    {
+      "name": "label_density_on",
+      "value": "Density: ON"
+    },
+    {
+      "name": "label_density_off",
+      "value": "Density: OFF"
+    },
+    {
+      "name": "label_loading",
+      "value": "Loading map..."
+    },
+    {
+      "name": "label_cluster_marker_title",
+      "value": "spots"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "color_map_background",
+      "value": "#FF1A1A2E"
+    },
+    {
+      "name": "color_info_panel_bg",
+      "value": "#E6000000"
+    },
+    {
+      "name": "color_info_panel_text",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "color_info_panel_sub",
+      "value": "#FFAAAAAA"
+    },
+    {
+      "name": "color_toggle_btn_on",
+      "value": "#FF4BACC6"
+    },
+    {
+      "name": "color_toggle_btn_off",
+      "value": "#FF555555"
+    },
+    {
+      "name": "color_toggle_btn_text",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "color_divider",
+      "value": "#FF333333"
+    },
+    {
+      "name": "color_overlay_scrim",
+      "value": "#80000000"
+    }
+  ]
+}
